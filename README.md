@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![Java EE](https://img.shields.io/badge/Java%20EE?logo=java&style=flat)
+![](https://img.shields.io/badge/Code-Java-EE-informational?logo=java&style=flat)
 ![Angular Framework](https://img.shields.io/badge/Angular%20Framework?logo=angular&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript?logo=typescript&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript&style=flat)
