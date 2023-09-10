@@ -1,4 +1,4 @@
-### Hi there 👋![Uploading Mask Group 1.png…]()
+### Hi there 👋
 
 
 <!--
