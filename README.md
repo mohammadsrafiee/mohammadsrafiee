@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-Java-informational?logo=java&style=flat)
-![](https://img.shields.io/badge/Code-Angular%20Framework-informational?logo=angular&style=flat)
+![](https://img.shields.io/badge/Code-Angular%20Framework-informational?logo=Angular&style=flat)
 
+<!-- 
 ![TypeScript](https://img.shields.io/badge/TypeScript?logo=typescript&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript&style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring%20BootF?logo=spring&style=flat)
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
 ![Design Pattern](https://img.shields.io/badge/Design%20Pattern?style=flat)
 ![DDD](https://img.shields.io/badge/DDD?style=flat)
 ![TDD](https://img.shields.io/badge/TDD?style=flat)
-
+-->
 
 ## 📈 GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohammadsrafiee&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/mohammadsrafiee/github-profile-trophy)
